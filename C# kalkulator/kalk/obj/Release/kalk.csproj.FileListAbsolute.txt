@@ -1,0 +1,14 @@
+C:\Users\tomis\Desktop\C# kalkulator\kalk\bin\Release\kalk.exe.config
+C:\Users\tomis\Desktop\C# kalkulator\kalk\bin\Release\kalk.exe.manifest
+C:\Users\tomis\Desktop\C# kalkulator\kalk\bin\Release\kalk.application
+C:\Users\tomis\Desktop\C# kalkulator\kalk\bin\Release\kalk.exe
+C:\Users\tomis\Desktop\C# kalkulator\kalk\bin\Release\kalk.pdb
+C:\Users\tomis\Desktop\C# kalkulator\kalk\obj\Release\kalk.csprojAssemblyReference.cache
+C:\Users\tomis\Desktop\C# kalkulator\kalk\obj\Release\kalk.Standardni.resources
+C:\Users\tomis\Desktop\C# kalkulator\kalk\obj\Release\kalk.Properties.Resources.resources
+C:\Users\tomis\Desktop\C# kalkulator\kalk\obj\Release\kalk.Znanstveni.resources
+C:\Users\tomis\Desktop\C# kalkulator\kalk\obj\Release\kalk.csproj.GenerateResource.cache
+C:\Users\tomis\Desktop\C# kalkulator\kalk\obj\Release\kalk.exe.manifest
+C:\Users\tomis\Desktop\C# kalkulator\kalk\obj\Release\kalk.application
+C:\Users\tomis\Desktop\C# kalkulator\kalk\obj\Release\kalk.exe
+C:\Users\tomis\Desktop\C# kalkulator\kalk\obj\Release\kalk.pdb

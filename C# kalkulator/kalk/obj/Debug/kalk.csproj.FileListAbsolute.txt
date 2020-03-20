@@ -1,0 +1,62 @@
+C:\Users\PC 04\source\repos\kalk\kalk\obj\Debug\kalk.csprojAssemblyReference.cache
+C:\Users\PC 04\source\repos\kalk\kalk\obj\Debug\kalk.Form1.resources
+C:\Users\PC 04\source\repos\kalk\kalk\obj\Debug\kalk.Properties.Resources.resources
+C:\Users\PC 04\source\repos\kalk\kalk\obj\Debug\kalk.csproj.GenerateResource.cache
+C:\Users\PC 04\source\repos\kalk\kalk\obj\Debug\kalk.csproj.CoreCompileInputs.cache
+C:\Users\PC 04\source\repos\kalk\kalk\bin\Debug\kalk.exe.config
+C:\Users\PC 04\source\repos\kalk\kalk\bin\Debug\kalk.exe
+C:\Users\PC 04\source\repos\kalk\kalk\bin\Debug\kalk.pdb
+C:\Users\PC 04\source\repos\kalk\kalk\obj\Debug\kalk.exe
+C:\Users\PC 04\source\repos\kalk\kalk\obj\Debug\kalk.pdb
+C:\Users\Korisnik\Desktop\kalk\kalk\bin\Debug\kalk.exe.config
+C:\Users\Korisnik\Desktop\kalk\kalk\bin\Debug\kalk.exe
+C:\Users\Korisnik\Desktop\kalk\kalk\bin\Debug\kalk.pdb
+C:\Users\Korisnik\Desktop\kalk\kalk\obj\Debug\kalk.csprojAssemblyReference.cache
+C:\Users\Korisnik\Desktop\kalk\kalk\obj\Debug\kalk.Form1.resources
+C:\Users\Korisnik\Desktop\kalk\kalk\obj\Debug\kalk.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\kalk\kalk\obj\Debug\kalk.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\kalk\kalk\obj\Debug\kalk.exe
+C:\Users\Korisnik\Desktop\kalk\kalk\obj\Debug\kalk.pdb
+C:\Users\tomis\Desktop\c#\kalk1.1\kalk\bin\Debug\kalk.exe.config
+C:\Users\tomis\Desktop\c#\kalk1.1\kalk\bin\Debug\kalk.exe
+C:\Users\tomis\Desktop\c#\kalk1.1\kalk\bin\Debug\kalk.pdb
+C:\Users\tomis\Desktop\c#\kalk1.1\kalk\obj\Debug\kalk.csprojAssemblyReference.cache
+C:\Users\tomis\Desktop\c#\kalk1.1\kalk\obj\Debug\kalk.Properties.Resources.resources
+C:\Users\tomis\Desktop\c#\kalk1.1\kalk\obj\Debug\kalk.znanstveni.resources
+C:\Users\tomis\Desktop\c#\kalk1.1\kalk\obj\Debug\kalk.csproj.GenerateResource.cache
+C:\Users\tomis\Desktop\c#\kalk1.1\kalk\obj\Debug\kalk.exe
+C:\Users\tomis\Desktop\c#\kalk1.1\kalk\obj\Debug\kalk.pdb
+C:\Users\tomis\Desktop\c#\kalk1.1\kalk\obj\Debug\kalk.standardni.resources
+C:\Users\tomis\Desktop\c#\kalk1.1\kalk\obj\Debug\kalk.programski.resources
+C:\Users\tomis\Desktop\c#\kalk1.1\kalk\bin\Debug\kalk.exe.manifest
+C:\Users\tomis\Desktop\c#\kalk1.1\kalk\bin\Debug\kalk.application
+C:\Users\tomis\Desktop\c#\kalk1.1\kalk\obj\Debug\kalk.exe.manifest
+C:\Users\tomis\Desktop\c#\kalk1.1\kalk\obj\Debug\kalk.application
+C:\Users\tomis\Desktop\kalk1.1\kalk\bin\Debug\kalk.exe.config
+C:\Users\tomis\Desktop\kalk1.1\kalk\bin\Debug\kalk.exe.manifest
+C:\Users\tomis\Desktop\kalk1.1\kalk\bin\Debug\kalk.application
+C:\Users\tomis\Desktop\kalk1.1\kalk\bin\Debug\kalk.exe
+C:\Users\tomis\Desktop\kalk1.1\kalk\bin\Debug\kalk.pdb
+C:\Users\tomis\Desktop\kalk1.1\kalk\obj\Debug\kalk.csprojAssemblyReference.cache
+C:\Users\tomis\Desktop\kalk1.1\kalk\obj\Debug\kalk.Standardni.resources
+C:\Users\tomis\Desktop\kalk1.1\kalk\obj\Debug\kalk.Properties.Resources.resources
+C:\Users\tomis\Desktop\kalk1.1\kalk\obj\Debug\kalk.Znanstveni.resources
+C:\Users\tomis\Desktop\kalk1.1\kalk\obj\Debug\kalk.csproj.GenerateResource.cache
+C:\Users\tomis\Desktop\kalk1.1\kalk\obj\Debug\kalk.exe.manifest
+C:\Users\tomis\Desktop\kalk1.1\kalk\obj\Debug\kalk.application
+C:\Users\tomis\Desktop\kalk1.1\kalk\obj\Debug\kalk.exe
+C:\Users\tomis\Desktop\kalk1.1\kalk\obj\Debug\kalk.pdb
+C:\Users\tomis\Desktop\C# kalkulator\kalk\bin\Debug\kalk.exe.config
+C:\Users\tomis\Desktop\C# kalkulator\kalk\bin\Debug\kalk.exe.manifest
+C:\Users\tomis\Desktop\C# kalkulator\kalk\bin\Debug\kalk.application
+C:\Users\tomis\Desktop\C# kalkulator\kalk\bin\Debug\kalk.exe
+C:\Users\tomis\Desktop\C# kalkulator\kalk\bin\Debug\kalk.pdb
+C:\Users\tomis\Desktop\C# kalkulator\kalk\obj\Debug\kalk.csprojAssemblyReference.cache
+C:\Users\tomis\Desktop\C# kalkulator\kalk\obj\Debug\kalk.Standardni.resources
+C:\Users\tomis\Desktop\C# kalkulator\kalk\obj\Debug\kalk.Properties.Resources.resources
+C:\Users\tomis\Desktop\C# kalkulator\kalk\obj\Debug\kalk.Znanstveni.resources
+C:\Users\tomis\Desktop\C# kalkulator\kalk\obj\Debug\kalk.csproj.GenerateResource.cache
+C:\Users\tomis\Desktop\C# kalkulator\kalk\obj\Debug\kalk.exe.manifest
+C:\Users\tomis\Desktop\C# kalkulator\kalk\obj\Debug\kalk.application
+C:\Users\tomis\Desktop\C# kalkulator\kalk\obj\Debug\kalk.exe
+C:\Users\tomis\Desktop\C# kalkulator\kalk\obj\Debug\kalk.pdb
